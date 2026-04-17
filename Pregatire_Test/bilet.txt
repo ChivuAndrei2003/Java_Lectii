@@ -1,0 +1,7 @@
+Plecare: Bucuresti
+Sosire: Brasov
+Distanta: 180
+Tip reducere: STUDENT
+Statii: [Ploiesti, Sinaia]
+Reducere: 0.5
+Pret: 270.0
